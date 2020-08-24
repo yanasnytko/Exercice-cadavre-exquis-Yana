@@ -5,3 +5,6 @@
 Voici l'histoire de ma vie :
 
 Je suis tout le temps **fatiguée**.
+
+La fin de l'exercice, 
+je mets un terme à tout.
